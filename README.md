@@ -1,4 +1,4 @@
-# Yoo, I'm Orion Guo 👋
+# Yoo, I'm Orion.Guo 👋
 
 ## About Me
 
@@ -14,22 +14,23 @@
 
 💻 Here are some of the technologies and programming languages I am proficient in:
 
-- HTML/CSS
-- JavaScript/TypeScript
 - Node.js
-- React/Redux/Next.js
-- JAVA/C/Rust
+- JAVA/C/Rust/Swift
+- JavaScript/TypeScript
+- React/React-Native/Redux/Next.js
+- HTML/CSS
+
 
 ## Projects
 
 🚀 Check out some of my projects:
 
-😂 - Not ready yet, currently privatized
+😂 not ready yet, most of the repositories are private for now!
 
 ## Contact Me
 
 📧 Feel free to reach out to me via email at [guotingchaopr@gmail.com](guotingchaopr@gmail.com).
 
-🌐 You can also visit my personal website at [me.guozichun.com](https://me.guozichun.com).
+🌐 You can also visit my personal website at [blog.yayh.life](https://blog.yayh.life).
 
 Thanks for visiting my GitHub home page! 😄
