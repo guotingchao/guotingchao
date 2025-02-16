@@ -1,6 +1,6 @@
 # Yoo, I'm Tincho.Guo 👋
 
-[Person Web Site ](https://me.bitedance.fun)
+[Person Web Site ](https://me.bytesbeats.com))
 
 ## About Me
 
